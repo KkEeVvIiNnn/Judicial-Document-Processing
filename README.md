@@ -24,3 +24,6 @@ Title, PubDate, Html
 
 ## Type3(80000000+)
 The value of source is a dict(Names of keys can be found in `quanwendic.js`).
+
+## key list
+案件名称, 法院名称, 效力层级, 文书类型, 案号, 案件类型, 审理程序, 审理程序, 案由, 案由, 案由, 案由, 案由, 案由, 当事人, 审判人员, 律师, 律所, 附加原文, 文本首部段落原文, 诉讼记录段原文, 诉控辩原文, 案件基本情况段原文, 理由原文, 判决结果段原文, 文本尾部原文, legal_base, 裁判日期, 不公开理由, 法院省份, 法院地市, 法院区县, pub_date, 公开类型, 关键字, 结案方式, legal_base, legal_base, 裁判日期, html, 浏览, 案件名称, pub_date, html
