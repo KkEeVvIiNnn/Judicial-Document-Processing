@@ -4,7 +4,7 @@
 ```json
 "id": "1",
 "doc_id": "42245f2a-c8d6-4ff4-a3e9-3eecb9e10cb3",
-"source": varies in different type,
+"source": varies in different types,
 "crawl_time": "2018-09-18 12:04:33",
 "status": "0",
 "channel": "web",
